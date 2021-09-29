@@ -1,0 +1,11 @@
+{
+    "cSpell.enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+		"--load-plugins", 
+		"pylint_quotes"
+    ],
+    "python.formatting.provider": "yapf",
+}
